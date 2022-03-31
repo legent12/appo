@@ -1,0 +1,453 @@
+@media (max-width: 1350px) {
+	.container {
+		width: 90%
+	}
+	.light {
+		position: static;
+		max-width: 100%;
+	}
+	.light h2 {
+		font-size: 30px;
+		margin: 30px 0 30px 10px;
+		max-width: 100%;
+	}
+	.light p {
+		color: var(--font-clr-gray);
+		margin: 0 0 0 10px;
+	}
+	.top-writing {
+		text-align: end;
+		position: static;
+		margin: 100px 0 0 0;
+	}
+	.top-writing p {
+		text-align: end;
+		position: static;
+		margin: 20px 0 0 0;
+		max-width: 100%;
+	}
+	.heart {
+		width: 80%
+	}
+	.tag {
+		width: 80%
+	}
+	.case {
+		width: 80%
+	}
+	.pencil {
+		width: 80%
+	}
+	.bottom-writing p {
+		margin: 30px 0 0 25px;
+		max-width: 100%;
+	}
+	.bottom-writing {
+		padding: 0;
+	}
+	.video {
+		padding: 0;
+		min-height: 500px;
+	}
+	.download {
+		min-height: 250px;
+	}
+	.download h5 {
+		margin: 50px 0 0 0;
+	}
+	article p {
+		max-width: 70%;
+		margin: auto;
+		padding: 20px 0 0 0;
+	}
+}
+
+
+
+@media (max-width:900px) {
+	.button-part {
+		max-width: 25%;
+	}
+	.button-part a {
+		display: none;
+	}
+	.hero-area {
+		min-height: 500px;
+	}
+	.writing-part {
+		position: static;
+	}
+	.writing-part h1 {
+		max-width: 80%;
+		padding: 20px 0 0 0;
+	}
+	.writing-part p {
+		max-width: 80%;
+	}
+	.img-part img {
+		position: static;
+		width: 70%;
+		margin: 30px 0 0 0;
+	}
+	.service-part {
+		min-height: 900px;
+		background-color: var(--white-clr);
+	}
+	.service-writing {
+		text-align: center;
+		padding: 50px 0 0 0;
+		min-height: 300px;
+	}
+	.col-3 {
+		width: 48%;
+	}
+	.background {
+		height: 100px;
+	}
+	.bottom-img img {
+		margin: 0 0 0 120px;
+		position: static;
+		width: 60%;
+	}
+	.video {
+		min-height: 400px;
+	}
+	.video img {
+		margin: 25px 0 0 0;
+	}
+	.video p {
+		font-weight: bold;
+		max-width: 80%;
+		margin: auto;
+	}
+	.add-img img {
+		width: 80%;
+	}
+	.add-btn button {
+		font-weight: bold;
+		margin: 22px 0 0 50px;
+	}
+	.add-writing {
+		position: static;
+		padding: 100px 0 0 100px;
+	}
+	.add-writing p {
+		max-width: 90%;
+	}
+	.background-2 {
+		height: 80px;
+	}
+	.company {
+		width: 20%;
+	}
+	.Development {
+		width: 20%;
+	}
+	.Marketing {
+		width: 20%;
+	}
+	.Community {
+		width: 20%;
+	}
+	.Info {
+		width: 20%;
+	}
+}
+
+
+
+@media (max-width:750px) {
+	nav {
+		max-width: 63.33%;
+	}
+	nav li {
+		padding: 23px 5px;
+	}
+	.button-part {
+		max-width: 20%;
+	}
+	.button-part button {
+		padding: 5px 9px;
+		font-size: 13px;
+		margin: 25px 0 0 0;
+	}
+	.hero-area {
+		min-height: 430px;
+	}
+	.writing-part h1 {
+		font-size: 25px;
+		max-width: 90%;
+		margin: 0 0 30px 0;
+	}
+	.writing-part p {
+		max-width: 90%;
+		margin: 0 0 30px 0;
+	}
+	.writing-part button {
+		padding: 5px 30px;
+		display: block;
+		margin: 0 0 20px 0;
+	}
+	.writing-part button:hover {
+		padding: 5px 30px;
+		display: block;
+		margin: 0 25px 20px 0;
+	}
+	.img-part img {
+		width: 75%;
+	}
+	.service-writing {
+		padding: 30px 0 0 0;
+		min-height: 200px;
+	}
+	.service-writing h2 {
+		font-size: 20px;
+		max-width: 90%;
+	}
+	.service-all {
+		width: 40%;
+		margin: 0 1px 0 0;
+	}
+	.service-all:nth-child(even) {
+		margin: 0 30px 0 50px;
+	}
+	.top-writing {
+		width: 100%;
+		text-align: left;
+		margin: 50px 0 0 20px;
+		float: none;
+	}
+	.top-writing p {
+		text-align: left;
+		width: 80%;
+	}
+	.top-image {
+		max-width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.top-image img {
+		width: 100%;
+		margin: 100px 0 0 0;
+	}
+	.middle {
+		min-height: 750px;
+	}
+	.middle-img {
+		width: 100%;
+		float: none;
+		text-align: center;
+		margin: 20px 0 0 0;
+	}
+	.middle-img img {
+		width: 40%;
+	}
+	aside {
+		width: 90%;
+		float: none;
+		margin: auto;
+	}
+	.heart {
+		width: 100%;
+		margin: 0
+	}
+	.heart:hover {
+		margin: 0;
+		width: 100%;
+	}
+	.tag {
+		width: 100%;
+		margin: 0
+	}
+	.tag:hover {
+		margin: 0;
+		width: 100%;
+	}
+	.case {
+		width: 100%;
+		margin: 0
+	}
+	.case:hover {
+		margin: 0;
+		width: 100%;
+	}
+	.pencil {
+		width: 100%;
+		margin: 0
+	}
+	.pencil:hover {
+		margin: 0;
+		width: 100%;
+	}
+	.bottom-writing {
+		width: 100%;
+		float: none;
+		text-align: center;
+	}
+	.bottom-img {
+		width: 100%;
+		float: none;
+		margin: 0;
+	}
+	.bottom-img img {
+		margin: 0 0 0 20px;
+		text-align: center;
+	}
+	.background {
+		display: none;
+	}
+	.add {
+		height: 1100px;
+	}
+	.add-img {
+		width: 100%;
+		float: none;
+	}
+	.add-img img {
+		width: 70%;
+	}
+	.add-writing {
+		width: 100%;
+		float: none;
+		padding: 0;
+		text-align: center;
+	}
+	.add-writing p {
+		max-width: 100%;
+		text-align: center;
+	}
+	.add-btn {
+		text-align: center;
+	}
+	.add-btn button {
+		padding: 10px 30px;
+		box-shadow: 0 0 10px var(--light-blue-clr);
+		font-weight: bold;
+		margin: 22px 0 0 0;
+	}
+	.company {
+		width: 20%;
+		padding: 0;
+	}
+	.Development {
+		width: 20%;
+		padding: 0;
+	}
+	.Marketing {
+		width: 20%;
+		padding: 0;
+	}
+	.Community {
+		width: 20%;
+		padding: 0;
+	}
+	.Info {
+		width: 20%;
+		padding: 0;
+	}
+	input[type="email"] {
+		width: 60%;
+		padding: 7px;
+	}
+	input[type="submit"] {
+		padding: 5px 20px;
+		font-size: 13px;
+		margin: 0 0 0 15px;
+		cursor: pointer;
+	}
+	.icon-footer p {
+		width: 100%;
+		float: none;
+		font-size: 15px;
+		margin: 35px 0 0 0;
+		text-align: center;
+	}
+	.icon-part {
+		width: 100%;
+		float: none;
+		text-align: center;
+		margin: 0 0 20px 0;
+	}
+}
+
+
+
+@media (max-width:470px) {
+	nav li {
+		padding: 23px 2px;
+	}
+	.button-part button {
+		font-size: 11px;
+	}
+	.logo-part img {
+		width: 100%;
+	}
+	.service-part {
+		min-height: 1450px;
+	}
+	.service-all {
+		width: 100%;
+		margin: 0 1px 20px 0;
+	}
+	.service-all:nth-child(even) {
+		margin: 0 30px 20px 0px;
+	}
+	.dark {
+		display: none;
+	}
+	.light {
+		text-align: center;
+		width: 100%;
+		margin: 30px 0 0 0;
+	}
+	.top-image {
+		width: 100%;
+	}
+	.middle-img {
+		width: 100%;
+	}
+	.middle-img img {
+		width: 80%;
+	}
+	.bottom-img {
+		text-align: center;
+	}
+	.add {
+		height: 800px;
+	}
+	.add a img {
+		margin: 0;
+	}
+	.add-btn {
+		text-align: center;
+		width: 100%;
+		margin: 0;
+	}
+	.add-btn button {
+		width: 100%;
+		margin: 0;
+	}
+	.company {
+		text-align: center;
+		width: 33%;
+		padding: 0 0 0px 0;
+	}
+	.Development {
+		text-align: center;
+		width: 33%;
+		padding: 0;
+	}
+	.Marketing {
+		text-align: center;
+		width: 33%;
+		padding: 0;
+	}
+	.Community {
+		width: 45%;
+		padding: 0 0 0 38px;
+	}
+	.Info {
+		width: 40%;
+		padding: 0;
+	}
+}
